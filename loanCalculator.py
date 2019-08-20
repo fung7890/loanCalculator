@@ -132,7 +132,7 @@ def print_summary(loan):
 	print("\n" * 100) # clear screen
 	template = ''' 
 	___________________________
-	########## Lenmo ##########					    
+	########## LOAN ##########					    
 										
 	 Loan ID: {}						
 	 Loan Status: {}						
